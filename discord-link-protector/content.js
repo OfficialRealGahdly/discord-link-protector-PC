@@ -1,4 +1,4 @@
-// ⚠️ Discord Link Protector - Ultimate Final ⚠️
+// ⚠️ Discord Link Protector: Origin Shield v1.0 ⚠️
 
 // ------------------ Default Lists ------------------
 let suspiciousDomains = [
