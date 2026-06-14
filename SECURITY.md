@@ -20,9 +20,6 @@ If you discover a security vulnerability, please report it responsibly.
 ### How to Report
 Send a detailed report through one of the following methods:
 
-- Discord Support Page:
-  
-
 - Discord Support Server:
   https://discord.gg/BZxkeXFfvf
 
